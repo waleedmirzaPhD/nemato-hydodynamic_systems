@@ -1,0 +1,66 @@
+fMesh = /clonetroop/waleed/CortexBestiary/CortexNematicDefectInCellColonies/circle_n3.vtk
+
+cCheck = false
+
+visc      = 2.0
+
+cvisc     = -0.2
+
+rvisc = 1
+
+frank   = 8E-4
+
+ 0.045
+
+lambda_iso   = 0.0
+
+lambda_aniso = 0.075
+
+
+
+passive close rotate  different rotation turbulence
+0.01  0.018  0.05  0.1 0.5 
+
+
+
+lambda_rot = 0.0
+
+kp    = 1E5
+
+kd    = 1E5
+
+fric    = 0.01
+
+#2
+
+sus20    = -0.5
+-1
+
+sus40    = 0.25
+0.5
+
+0.25
+
+h_crit  =  0.22
+
+deltat  = 1
+
+linTol = 1e-8
+
+resTol = 1e-5
+
+solTol = 1e-5
+
+maxIter = 10
+
+linImax = 10000
+
+maxDelt = 1.
+
+adaptiveStepTime = 0.975
+
+nPrint = 1
+
+stab = 0.0
+
+restart=0

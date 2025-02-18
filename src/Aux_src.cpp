@@ -16,7 +16,7 @@
 #include "hl_LinearSolver_Direct_Amesos.h"
 #include "hl_Tensor.h"
 #include "hl_LinearSolver_Iterative_AztecOO.h"
-#include "AuxCortexNematic2D.h"
+#include "Aux_src.h"
 
 void LS_CortexNematic_2D(Teuchos::RCP<hiperlife::FillStructure> fillStr)
 {

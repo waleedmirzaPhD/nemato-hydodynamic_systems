@@ -1,5 +1,5 @@
-#ifndef AuxCortexNematic2D
-#define AuxCortexNematic2D  // Include guard to prevent multiple inclusions of this header file
+#ifndef Aux_src
+#define Aux_src  // Include guard to prevent multiple inclusions of this header file
 
 /// Include necessary libraries and headers
 #include <Teuchos_RCP.hpp>                  // Reference-counted pointers from the Teuchos package
@@ -56,4 +56,4 @@ void LS_CortexNematic_Border(Teuchos::RCP<hiperlife::FillStructure> fillStr);
  */
 void LS_post(Teuchos::RCP<hiperlife::FillStructure> fillStr);
 
-#endif // AuxCortexNematic2D
+#endif // Aux_src

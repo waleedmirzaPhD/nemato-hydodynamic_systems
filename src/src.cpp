@@ -23,7 +23,7 @@
 #include "hl_ConfigFile.h"                   // Configuration file handling
 #include "hl_ConsistencyCheck.h"             // Utilities for checking consistency in simulations
 #include "hl_ConsistencyCheck.h"             // Duplicate inclusion of the same header
-#include "AuxCortexNematic2D.h"              // Auxiliary computations for nematic models in 2D
+#include "Aux_src.h"              // Auxiliary computations for nematic models in 2D
 #include "hl_LinearSolver_Direct_Amesos.h"   // Duplicate inclusion of Amesos direct solver
 #include "hl_LinearSolver_Iterative_AztecOO.h"  // Iterative linear solver using AztecOO
 #include "hl_NonlinearSolver_NewtonRaphson.h"   // Newton-Raphson solver for nonlinear problems

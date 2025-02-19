@@ -11,7 +11,7 @@ Ensure the following software and libraries are installed on your system:
 
 ## 2. Install HiperLife
 
-HiperLife is required for this project. Clone and install it from GitLab: https://gitlab.com/hiperlife/hiperlife and from branch release-4.3.0-branch
+HiperLife is required for this project. Clone and install it from GitLab: https://gitlab.com/hiperlife/hiperlife/-/tree/release-4.3.0-branch?ref_type=heads
 
 
 ## 3. Clone and Compile HL Base Project
